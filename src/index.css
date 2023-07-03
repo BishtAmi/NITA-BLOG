@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
+body {
+  background-color: #a8a4cac4;
+}
+.logo_name {
+  font-size: 40px;
+  font-weight: 1000;
+}
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 1500px;
+  margin: 0 auto;
+  border-bottom: 1px solid #e93908;
+  background-color: #050102;
+}
+.navbar .b {
+  color: #fafafa;
+}
+
+/* body{
+ background-color: #1a0b10;
+} */
+.navbar h1 {
+  color: #1a0b10;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #c3bfc5ec;
+}
+
+.content {
+  max-width: 1500px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* blog previews / list */
+.blog-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+  background-color: #05b7c4d2;
+}
+.blog-preview p {
+  color: #d5e004d1;
+}
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #fdfbfc;
+  margin-bottom: 8px;
+  background-color: #05b7c4d2;
+}
+.blog-preview a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* blog details page */
+.blog-details h2 {
+  font-size: 20px;
+  color: #1a0b10;
+  margin-bottom: 10px;
+
+  font-weight: bold;
+}
+.blog-details p {
+  font-size: 20px;
+  color: #07060299;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.blog-details div {
+  margin: 20px 0;
+  font-weight: bold;
+}
+.blog-details button {
+  background: #1a0b10;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 1%;
+}
+
+/* create new blog form */
+.create {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+.create label {
+  text-align: left;
+  font-size: 25px;
+  color: #1a0b10;
+  display: block;
+}
+.create h2 {
+  font-size: 3rem;
+  color: #1a0b10;
+  margin-bottom: 30px;
+}
+.create h1 {
+  font-size: 30px;
+  color: #1a0b10;
+  margin-bottom: 30px;
+}
+.create h3 {
+  font-size: 20px;
+  color: #050102;
+  margin-bottom: 20px;
+}
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: #1a0b10;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+@media screen and (min-width: 300px) and (max-width: 600px) {
+  .imageCont img {
+    width: 8rem;
+    height: auto;
+    padding: 0.2rem;
+    border: ridge;
+  }
+
+  .imageCont {
+    font-size: 0.5rem;
+    text-align: left;
+    width: 45%;
+    margin: 0.5rem;
+  }
+
+  .blogcredits {
+    color: #110c22;
+  }
+
+  .blogContent p {
+    color: #110c22;
+  }
+
+  .title {
+    font-size: 1.5rem;
+  }
+}
+.blogpage {
+  width: 70%;
+  padding-right: 1rem;
+  color: #aadddd;
+  word-break: break-word;
+  margin-left: 12rem;
+  margin-right: 2rem;
+}

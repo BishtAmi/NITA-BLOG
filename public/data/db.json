@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "hey",
+      "body": "i m human",
+      "author": "amit",
+      "id": 2
+    },
+    {
+      "title": "Border Gavaskar trophy",
+      "body": "harp reactions are coming in from the Australian side after seeing Nagpur’s pitch for the first Test between India and Australia starting from Thursday. The Jamtha stadium ground staff did some special fine-tuning in the age-old Indian way on Tuesday. The entire surface was first watered, then only the centre of the pitch got the roller treatment, and extra watering done outside the left-hander’s leg stump.\n\nResponding to the pitch, senior cricket expert Robert Craddock said on SEN’s podcast,”It’s a multi-toned pitch. The classic saying about pitches is, ‘Oh, it’s the same for everyone”.\n\n“When the Gabba pitch too much grass was left on it, people were saying, ‘Yes, it was not a great wicket, but it was the same everyone. But you can’t say that about this pitch, Australia has six left-handers in their top eight, so if you start multi-preparing parts of the deck that’s straight-up pitch doctoring, it’s poor,” he said.\n\nFormer Australian fast bowler Jason Gillespie told SEN WA Breakfast, “I think the Indian curators are looking at a way for India to have an advantage. They potentially think spin will play a huge role and that for the best chance to beat Australia will be to play to their strength.”",
+      "author": "chetan",
+      "id": 3
+    },
+    {
+      "title": "Twitter new update",
+      "body": "Update - Speculations about what could cause it\nI speculate that this might has something to do with the new 4k characters per tweet limit 200. This went live today 72 for blue tick subscribers and went out of the official beta phase, it could be a temporarily problem but right now the error message is pretty generic and its all guessing what I do here.\n\nTwitter, so far, has not provided us users with any statement yet, nor was this announced in advanced. The Terms of Service and the Privacy Policy page was also not updated to cover it, I check it today.\n\nUpdate 2 - New Twitter Limit page\nApparently there is a new page that explains Twitter tweet limits 434. I never saw such a page before.\n\nThe website basically says the following in a nutshell:\n\n500 Direct messages\n2400 tweets\n4 account email changes\n400 follows\nAdditional restrictions once an account following 5000 people total\nIt does NOT mention any specific details about my problem or the problem people currently encountering. I do not hit any of those mentioned limits.\n\nUpdate 3 - CNBC Article\nCNBC just released an article, see references, which writes about it. Basically they say the same like I do:\n\nMany Twitter users are currently unable to send Tweets and are receiving a message saying, “You are over the daily limit for sending Tweets“.\nIt’s unclear whether the change was the result of a bug or a product update.\nTwitter hasn’t announced any update to its daily limits. It’s not clear if the change on Wednesday was intentional or if it’s a temporary glitch. The company didn’t immediately respond to a request for comment.",
+      "author": "Sumi",
+      "id": 4
+    }
+  ]
+}
